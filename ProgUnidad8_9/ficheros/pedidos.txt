@@ -1,0 +1,15 @@
+El producto Olea-Olivos se ha pedido
+Detalle: 
+Cantidad: 1
+Precio Unidad20.0
+Número de linea1
+El producto Olea-Olivos se ha pedido
+Detalle: 
+Cantidad: 1
+Precio Unidad18.0
+Número de linea1
+El producto Olea-Olivos se ha pedido
+Detalle: 
+Cantidad: 35
+Precio Unidad18.0
+Número de linea3

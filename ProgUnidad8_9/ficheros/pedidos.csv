@@ -1,1 +1,7 @@
-Código Pedido;Estado Pedido;Código Cliente;
+Codigo Producto;Estado;Codigo Cliente
+13;entregado;7
+15;entregado;7
+16;entregado;7
+17;entregado;7
+18;entregado;9
+22;entregado;9

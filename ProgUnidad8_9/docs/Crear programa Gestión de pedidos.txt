@@ -1,0 +1,17 @@
+Crea un programa Java con el siguiente menú:
+
+1. Crear pedidos.csv que crea un fichero pedidos.csv con código del pedido, el
+estado del pedido y el código del cliente. (Recuerda que los campos van
+separados por ;).
+
+2. Crear detalle.csv: Crea otro llamado detalle.csv con todos los datos del
+detalle del pedido.
+
+3. Cargar productos: Crea una clase llamada productos.java que tenga tantos
+campos como la tabla productos (getters, setters, constructores, toString).
+
+Crea otro programa Java que realice una consulta de los productos y crea un
+arraylist de productos.
+
+4. Consultar pedidos: Finalmente, crea un fichero llamado pedidos.txt donde
+muestres los productos que se han pedido y su detalle.
