@@ -1,4 +1,4 @@
-package Varios;
+package varios;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

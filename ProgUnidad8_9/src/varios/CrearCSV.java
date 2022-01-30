@@ -1,4 +1,4 @@
-package Varios;
+package varios;
 
 import java.io.FileWriter;
 import java.io.IOException;
